@@ -8,3 +8,8 @@
 	url = https://github.com/qpmnguyen/cbea
 	shallow = true
 	registered = true
+[submodule "SBICgraph"]
+	path = SBICgraph
+	url = https://github.com/cran/SBICgraph
+	shallow = true
+	registered = true
