@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "CBEA"]
-	path = CBEA
-	url = https://github.com/qpmnguyen/cbea
 [submodule "SBICgraph"]
 	path = SBICgraph
 	url = https://github.com/cran/SBICgraph
